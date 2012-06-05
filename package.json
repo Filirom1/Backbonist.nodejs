@@ -1,0 +1,24 @@
+{
+  "author": "",
+  "name": "Backbonist.nodejs",
+  "description": "A nodejs boilerplate that use Backbonist stack",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Filirom1/Backbonist.nodejs.git"
+  },
+  "main": "lib/ubber-server",
+  "dependencies": {
+    "universal-jst": "~1.0.2",
+    "connect": "~2.3.0",
+    "watch-connect": "~0.1.0",
+    "watch": "~0.5.1",
+    "rimraf": "~2.0.1",
+    "no-build-conf": "~0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
