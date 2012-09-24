@@ -10,11 +10,11 @@
   "main": "lib/ubber-server",
   "dependencies": {
     "universal-jst": "~1.0.2",
-    "connect": "~2.3.0",
-    "watch-connect": "~0.1.0",
+    "connect": "~2.4.6",
+    "watch-connect": "~0.3.4",
     "watch": "~0.5.1",
     "rimraf": "~2.0.1",
-    "no-build-conf": "~0.1.0"
+    "no-build-conf": "~0.5.2"
   },
   "devDependencies": {},
   "optionalDependencies": {},
